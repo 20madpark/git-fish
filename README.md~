@@ -117,7 +117,5 @@ IMPORTANT: WHEN YOUR PR IS ACCEPTED, stop using your branch right away (or delet
 
 # Learning Log
 
- I have learned about how to use git and commands to go along with it. I have also learned how it is helpful in the context of programming. 
-
 [ctrl] + x and [ctrl]+s to just save in emacs
 and emacs -nw docname to open document
