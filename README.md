@@ -22,7 +22,7 @@ To go see whether that worked, use `cd` to navigate into the folder:
 
 Now type `ls` to list the files inside the directory, like this:
 
-	ls 
+	ls
 
 You should see the following output:
 
@@ -117,7 +117,13 @@ IMPORTANT: WHEN YOUR PR IS ACCEPTED, stop using your branch right away (or delet
 
 # Learning Log
 
- I have learned about how to use git and commands to go along with it. I have also learned how it is helpful in the context of programming. 
+ I have learned about how to use git and commands to go along with it. I have also learned how it is helpful in the context of programming.
 
 [ctrl] + x and [ctrl]+s to just save in emacs
 and emacs -nw docname to open document
+
+I learned:
+- branching in Git
+- how rebase and merge are different
+- Git commands
+Thank you so much!
