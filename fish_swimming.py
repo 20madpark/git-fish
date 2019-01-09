@@ -1,8 +1,8 @@
 import turtle, time, random, math
 
 # screen size parameters
-SIZE_X = 800
-SIZE_Y = 449
+SIZE_X = 900
+SIZE_Y = 500
 MIN_Y = -200
 MAX_Y = 200
 MIN_X = -380
